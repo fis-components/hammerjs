@@ -2,7 +2,7 @@
     "repos": "https://github.com/hammerjs/hammer.js.git",
     "name": "hammerjs",
     "main": "hammer.js",
-    "version": "2.0.7",
+    "version": "2.0.8",
     "description": "A javascript library for multi-touch gestures",
     "tag": "master",
     "reposType": "npm",
